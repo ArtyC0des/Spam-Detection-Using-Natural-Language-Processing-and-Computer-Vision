@@ -1,2 +1,2 @@
 # Spam-Detection-Using-Natural-Language-Processing-and-Computer-Vision
-Novel approach to combat spam emails by integrating textual analysis and logo recognition Utilizing NLP &amp; computer vision techniques Enhancing detection capabilities beyond textual analysis Multifaceted approach to improve email security and efficiency Addressing a critical challenge in today's digital communication landscape
+A novel approach to combat spam emails by integrating textual analysis and logo recognition Utilizing NLP & computer vision techniques enhancing detection capabilities beyond textual analysis. This is a multifaceted approach to improve email security and efficiency addressing a critical challenge in today's digital communication landscape
